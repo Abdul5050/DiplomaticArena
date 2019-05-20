@@ -1,0 +1,20 @@
+06-23-2016 @ 13:53:37 - Queuing 2.6.0 - wc_update_260_options
+06-23-2016 @ 13:53:37 - Queuing 2.6.0 - wc_update_260_termmeta
+06-23-2016 @ 13:53:37 - Queuing 2.6.0 - wc_update_260_zones
+06-23-2016 @ 13:53:37 - Queuing 2.6.0 - wc_update_260_zone_methods
+06-23-2016 @ 13:53:37 - Queuing 2.6.0 - wc_update_260_refunds
+06-23-2016 @ 13:53:37 - Queuing 2.6.0 - wc_update_260_db_version
+06-23-2016 @ 13:53:38 - Unable to dispatch WooCommerce updater: Operation timed out after 1003 milliseconds with 0 bytes received
+06-23-2016 @ 13:53:38 - Running wc_update_260_options callback
+06-23-2016 @ 13:53:38 - Finished wc_update_260_options callback
+06-23-2016 @ 13:53:38 - Running wc_update_260_termmeta callback
+06-23-2016 @ 13:53:38 - Finished wc_update_260_termmeta callback
+06-23-2016 @ 13:53:38 - Running wc_update_260_zones callback
+06-23-2016 @ 13:53:38 - Finished wc_update_260_zones callback
+06-23-2016 @ 13:53:38 - Running wc_update_260_zone_methods callback
+06-23-2016 @ 13:53:38 - Finished wc_update_260_zone_methods callback
+06-23-2016 @ 13:53:38 - Running wc_update_260_refunds callback
+06-23-2016 @ 13:53:38 - Finished wc_update_260_refunds callback
+06-23-2016 @ 13:53:38 - Running wc_update_260_db_version callback
+06-23-2016 @ 13:53:38 - Finished wc_update_260_db_version callback
+06-23-2016 @ 13:53:38 - Data update complete

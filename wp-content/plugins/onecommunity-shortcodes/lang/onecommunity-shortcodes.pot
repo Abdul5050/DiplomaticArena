@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OneCommunity Shortcodes\n"
+"POT-Creation-Date: 2017-11-03 13:03+0100\n"
+"PO-Revision-Date: 2017-11-03 13:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../onecommunity-shortcodes.php
+msgid "Log In"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Login to your account and check new messages."
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Username"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Password"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "recovery"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Password Recovery"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Popular"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Active"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Alphabetical"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Newest"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Most popular"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "60 days"
+msgstr ""
+
+#: ../onecommunity-shortcodes.php
+msgid "Latest posts"
+msgstr ""

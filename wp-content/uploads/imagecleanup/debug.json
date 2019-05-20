@@ -1,0 +1,17 @@
+[0.0066] Info: WP_Query results written to log
+[0.0003] Registered sizes: ["thumbnail","medium","large","shop_thumbnail","shop_catalog","shop_single","post-thumbnail","post-thumbnail-main","full"]
+[0.0004] Meta indexed so far: 1 / 97
+[0.0135] Sample meta:
+{"width":512,"height":512,"file":"2015\/08\/cropped-favicon.jpg","sizes":{"thumbnail":{"file":"cropped-favicon-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"cropped-favicon-300x300.jpg","width":300,"height":300,"mime-type":"image\/jpeg"},"shop_thumbnail":{"file":"cropped-favicon-120x120.jpg","width":120,"height":120,"mime-type":"image\/jpeg"},"shop_catalog":{"file":"cropped-favicon-175x175.jpg","width":175,"height":175,"mime-type":"image\/jpeg"},"shop_single":{"file":"cropped-favicon-400x400.jpg","width":400,"height":400,"mime-type":"image\/jpeg"},"post-thumbnail-main":{"file":"cropped-favicon-512x500.jpg","width":512,"height":500,"mime-type":"image\/jpeg"},"site_icon-270":{"file":"cropped-favicon-270x270.jpg","width":270,"height":270,"mime-type":"image\/jpeg"},"site_icon-192":{"file":"cropped-favicon-192x192.jpg","width":192,"height":192,"mime-type":"image\/jpeg"},"site_icon-180":{"file":"cropped-favicon-180x180.jpg","width":180,"height":180,"mime-type":"image\/jpeg"},"site_icon-32":{"file":"cropped-favicon-32x32.jpg","width":32,"height":32,"mime-type":"image\/jpeg"}},"image_meta":{"aperture":0,"credit":"","camera":"","caption":"","created_timestamp":0,"copyright":"","focal_length":0,"iso":0,"shutter_speed":0,"title":"","orientation":0}}
+[9.7333] Meta indexed so far: 97 / 97
+[10.0186] Info: Valid and Invalid meta results written to log
+[0.0036] Info: Loaded attachments to memory [48.5 mb]
+[0.1209] Info: 723 Images found [49.25 mb]
+[0.1403] Info: 310 Invalid images found [49.25 mb]
+[0.1743] Info: Retrieved attachment images from DB [49 mb]
+[0.1970] Info: Backup meta results written to log [49 mb]
+[0.0018] Posts checked for used images 1/1
+[0.0121] Info: Invalid post image meta results written to log
+Warning: skipping script index because of too many image files
+[3.9761] Info: Invalid referenced image meta results written to log
+[3.9838] Info: Unreferenced image file results written to log
